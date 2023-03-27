@@ -1,0 +1,38 @@
+body{
+    background-color: darkslategrey;
+}
+#nav{
+    display: flex;
+    /* border: 1px solid white; */
+    border-radius: 10px;
+    justify-content: center;
+}
+.in_nav{
+    padding: 20px;
+    margin: 20px;
+    background-color: #303030;
+    /* border: 1px solid white; */
+    border-radius: 10px;
+    cursor: pointer;
+}
+.in_nav:hover{
+    background-color: red;
+}
+.container{
+    margin-top: 30px;
+}
+h1{
+    margin-top: 30px;
+    color: skyblue;
+}
+.head{
+    display: flex;
+    justify-content: center;
+}
+.ice{
+    color: white;
+    background-color:blueviolet;
+    margin-left: 15px;
+
+    
+}
