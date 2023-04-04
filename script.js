@@ -4,7 +4,7 @@ head.className=("head");
 let h1=document.createElement("h1");
 let h11=document.createElement("h1");
 h11.className="ice";
-h1.innerHTML="and Fire";
+h1.innerHTML=" and Fire";
 h11.innerHTML="Ice"
 head.append(h11,h1);
 container.setAttribute("class","container");
